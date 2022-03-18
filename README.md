@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Page!
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2kr77l67qtystmkuza8k2mcs&cover_image=true&theme=natemoo-re&bar_color=30ff29&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w2kr77l67qtystmkuza8k2mcs&redirect=true)
 <!--
 **IDeletedSystem64/IDeletedSystem64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
