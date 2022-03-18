@@ -2,6 +2,7 @@
 <!-- Badges -->
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/0b9606141800c429c8add5aae592fc3101f1702d/trans-pride.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/1c9f302abb605657c9262dc8f37fa14b8d09c8c5/she-they.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) 
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/d77f7880df2b9c3e45bf736072f69158f527e1e0/twilight-sparkle.svg)](https://forthebadge.com)
 <br>  
