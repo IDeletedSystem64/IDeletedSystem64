@@ -17,7 +17,6 @@ I'm Sophie, a beginning developer that works in JavaScript that would also like 
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/1c9f302abb605657c9262dc8f37fa14b8d09c8c5/html5.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/1c9f302abb605657c9262dc8f37fa14b8d09c8c5/css.svg)](https://forthebadge.com)
 #### Backend
-[![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/d77f7880df2b9c3e45bf736072f69158f527e1e0/javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/d77f7880df2b9c3e45bf736072f69158f527e1e0/node-js.svg)](https://forthebadge.com)
 <br>
 ### Find me on
