@@ -8,7 +8,7 @@
 <br>  
 Hi there! I'm Sophie, a beginning developer that works in JavaScript that would also like to learn other languages, as well as an artist and believer in open-source software. At some point I'd like to either go into I.T or code as my job (just things I enjoy doing, basically). though I mostly work with Discord bots (such as [Anitrox (my bot)](https://github.com/ideletedsystem64/anitrox), and [TheCodingBot](https://github.com/TMC-Software/TheCodingBot). I also do websites, Check out [my website!](https://system64.neocities.org)
 <p align=center>
-  <img src=https://github.com/IDeletedSystem64/IDeletedSystem64/blob/main/twilightsparkle.gif?raw=true>
+  <img src=https://github.com/IDeletedSystem64/IDeletedSystem64/blob/main/profile/images/twilightsparkle.gif?raw=true>
 </p>
 
 <br>
