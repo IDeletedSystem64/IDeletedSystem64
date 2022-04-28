@@ -6,10 +6,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) 
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/d77f7880df2b9c3e45bf736072f69158f527e1e0/twilight-sparkle.svg)](https://forthebadge.com)
 <br>  
-I'm Sophie, a beginning developer that works in JavaScript that would also like to learn other languages, as well as an artist and believer in open-source software. At some point I'd like to either go into I.T or code as my job (just things I enjoy doing, basically). though I mostly work with Discord bots (such as [Anitrox (my bot)](https://github.com/ideletedsystem64/anitrox), [DerpiBot (my other, MLP imageboard bot)](https://github.com/ideletedsystem64/derpibot), and [TheCodingBot](https://github.com/TMC-Software/TheCodingBot).
+Hi there! I'm Sophie, a beginning developer that works in JavaScript that would also like to learn other languages, as well as an artist and believer in open-source software. At some point I'd like to either go into I.T or code as my job (just things I enjoy doing, basically). though I mostly work with Discord bots (such as [Anitrox (my bot)](https://github.com/ideletedsystem64/anitrox), and [TheCodingBot](https://github.com/TMC-Software/TheCodingBot). I also do websites, Check out [my website!](https://system64.neocities.org)
 <p align=center>
   <img src=https://github.com/IDeletedSystem64/IDeletedSystem64/blob/main/twilightsparkle.gif?raw=true>
 </p>
+
+<br>
+
+Things I know how to work with, at least a small bit.
 
 <br>
 
