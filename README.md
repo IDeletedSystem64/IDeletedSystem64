@@ -22,6 +22,8 @@ Things I know how to work with, at least a small bit.
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/1c9f302abb605657c9262dc8f37fa14b8d09c8c5/css.svg)](https://forthebadge.com)
 #### Backend
 [![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/d77f7880df2b9c3e45bf736072f69158f527e1e0/node-js.svg)](https://forthebadge.com)
+#### What I'm working on
+[![forthebadge](https://raw.githubusercontent.com/IDeletedSystem64/IDeletedSystem64/a7b66b9ce6f9d316396a57460fa52510518b8c12/profile/images/chashtag.svg)](https://forthebadge.com)
 <br>
 ### Find me on
 
